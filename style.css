@@ -50,6 +50,7 @@ label{
 }
 h1{
     color: #16ad2a;
+    border-radius: 2em;
 }
     p{
         font-size: .9ch;

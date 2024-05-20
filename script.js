@@ -9,5 +9,6 @@ button.addEventListener('click', ()=>{
     calculation = ((intInput * 9/5) + 32).toString()
 //   console.log((intInput * 9/5) + 32).toString()
     result.innerText = (input.value + '°C = '+calculation + '°F')
+    result.style.backgroundColor = "bisque";
 })
 
